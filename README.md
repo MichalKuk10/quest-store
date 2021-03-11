@@ -19,3 +19,16 @@ This project was conduted by 4 student from Codecool
 - Mockito
 - Jetty server
 
+
+## Website Tour
+
+### Login Page: 
+
+![alt text](https://user-images.githubusercontent.com/57062670/110766315-5122d380-8255-11eb-9179-879fbf879b17.png)
+
+Landing page allows user to choose, wheter they are students or mentors. 
+
+
+![alt text](https://user-images.githubusercontent.com/57062670/110766538-8f1ff780-8255-11eb-894a-5c9b407a6367.png)
+
+###
