@@ -19,6 +19,3 @@ This project was conduted by 4 student from Codecool
 - Mockito
 - Jetty server
 
-#Quick Tour
-
-![Alt text](https://user-images.githubusercontent.com/57062670/110765224-4287ec80-8254-11eb-8ee5-b26786f80792.png)
